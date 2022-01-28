@@ -1,0 +1,112 @@
+h1 { 
+font-family: 'Yusei Magic', sans-serif;
+font-family: 'Sriracha', cursive;
+margin: -10px -0.5% 0px -10px;
+padding: 25px 0px 40px 0px;
+text-transform: uppercase;
+text-align: center;
+font-type: italic;
+font-weight: bold;
+background: orange;
+font-size: 35px;
+height: 50px;
+color: white;
+}
+
+nav {
+margin: -10px -0.5% 0px -10px;
+background-color: lightblue;
+padding: 5px 0px 15px 10px;
+}
+
+nav a {
+padding: 4px 4px 1px 4px;
+border: 1px solid black;
+margin: 0px 4px;
+}
+
+.steve-jobs-image {
+margin: -12px 0px 0px -10px;
+height: 22.5%;
+width: 12%;
+float: left;
+}
+
+.bio {
+font-size: 15px;
+}
+
+.blue-text {
+color: blue;
+}
+
+.red-text {
+color: red;
+padding: 1px;
+}
+
+.macintosh {
+background-color: lightskyblue;
+padding: 25px 0px;
+margin: -0.5%;
+}
+
+.blue-hr {
+margin: 20px -0.5% -10px -10px;
+background-color: blue;
+height: 20px;
+}
+
+.red-hr {
+margin: 0px 0px 0px -10px;
+background-color: red;
+border-color: red;
+height: 20px;
+}
+
+.macintosh-image {
+margin: -22px 0px 0px 0px;
+background-color: gold;
+float: right;
+}
+
+.coral-hr {
+margin: 8px -8px 0px -10px;
+background-color: coral;
+border-color: coral;
+height: 20px;
+}
+
+.orange-hr {
+margin: 0px -0.5% 0px -10px;
+background-color: orange;
+border-color: orange;
+height: 20px;
+}
+
+.white-hr {
+margin: 0px -0.5% 0px -10px;
+background-color: white;
+border-color: white;
+height: 1px;
+}
+
+footer p {
+background-color: coral;
+text-align: center;
+padding: 15px 0px 40px 0px;
+margin: 0px -0.5%;
+}
+
+.products-list {
+list-style-type:katakana-iroha;
+margin: 25px 40px 20px 40px;
+background-color: beige;
+line-height: 2;
+}
+
+.products {
+background-color: orange;
+margin: 0px -0.5% -10px -10px;;
+padding: 5px;
+}
