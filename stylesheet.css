@@ -1,11 +1,21 @@
+.main-content {
+    border-width: 0px 5px 20px 5px;
+    margin: 0px -0.65% 2px -0.65%;
+    border-color: orange orange coral orange;
+    border-style: solid;
+}
+
+.empty-section {
+    background-color: white;
+}
+
 h1 { 
 font-family: 'Yusei Magic', sans-serif;
 font-family: 'Sriracha', cursive;
-margin: -10px -0.5% 0px -10px;
+margin: -10px -0.65% 0px -10px;
 padding: 25px 0px 40px 0px;
 text-transform: uppercase;
 text-align: center;
-font-type: italic;
 font-weight: bold;
 background: orange;
 font-size: 35px;
@@ -14,7 +24,7 @@ color: white;
 }
 
 nav {
-margin: -10px -0.5% 0px -10px;
+margin: -10px 0px 0px 0px;
 background-color: lightblue;
 padding: 5px 0px 15px 10px;
 }
@@ -26,13 +36,14 @@ margin: 0px 4px;
 }
 
 .steve-jobs-image {
-margin: -12px 0px 0px -10px;
+margin: -12px 0px 0px 0px;
 height: 22.5%;
 width: 12%;
 float: left;
 }
 
 .bio {
+background-color: white;
 font-size: 15px;
 }
 
@@ -42,25 +53,24 @@ color: blue;
 
 .red-text {
 color: red;
-padding: 1px;
 }
 
 .macintosh {
 background-color: lightskyblue;
 padding: 25px 0px;
-margin: -0.5%;
 }
 
 .blue-hr {
-margin: 20px -0.5% -10px -10px;
+margin: 20px 0px -10px 0px;
 background-color: blue;
+border: none;
 height: 20px;
 }
 
 .red-hr {
-margin: 0px 0px 0px -10px;
+margin: 0px 0px 0px 0px;
 background-color: red;
-border-color: red;
+border: none;
 height: 20px;
 }
 
@@ -70,32 +80,19 @@ background-color: gold;
 float: right;
 }
 
-.coral-hr {
-margin: 8px -8px 0px -10px;
-background-color: coral;
-border-color: coral;
-height: 20px;
-}
-
 .orange-hr {
-margin: 0px -0.5% 0px -10px;
+margin: 0px -0.65% 0px -0.65%;
 background-color: orange;
 border-color: orange;
+border: none;
 height: 20px;
-}
-
-.white-hr {
-margin: 0px -0.5% 0px -10px;
-background-color: white;
-border-color: white;
-height: 1px;
 }
 
 footer p {
 background-color: coral;
 text-align: center;
 padding: 15px 0px 40px 0px;
-margin: 0px -0.5%;
+margin: 0px -0.65% 0px -0.65%;
 }
 
 .products-list {
